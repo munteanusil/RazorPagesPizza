@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBvybYSz249CxF/OJpj0tAEZfYioOlMTN6UIDX2XC1ZzVMnZwX4FU7o3mK6ec0kZCMcssanXV/MqPBBgT7fZqw==",
+  "success": true,
+  "projectFilePath": "F:\\Aplicatie\\LetsLearn\\RazorPagesPIzza\\RazorPagesPIzza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silviu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Silviu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Silviu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Silviu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
